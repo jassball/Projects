@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63825696f7237660da76d2c7"
+  },
+  "Name": "Player1",
+  "Score": "8"
+},{
+  "_id": {
+    "$oid": "638256acf7237660da76d2c8"
+  },
+  "Name": "Player2",
+  "Score": "5"
+},{
+  "_id": {
+    "$oid": "638256c8f7237660da76d2c9"
+  },
+  "Name": "Player3",
+  "Score": "7"
+},{
+  "_id": {
+    "$oid": "638256e0f7237660da76d2ca"
+  },
+  "Name": "Player4",
+  "Score": "3"
+}]

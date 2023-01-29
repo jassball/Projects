@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "638133f7cd075e6d86a899a6"
+  },
+  "Title": "Counter Strike",
+  "Platform": "PC",
+  "ReleaseYear": "2012",
+  "Image": "Counter Strike.jpg"
+},{
+  "_id": {
+    "$oid": "63813418cd075e6d86a899a7"
+  },
+  "Title": "League of Legends",
+  "Platform": "PC",
+  "ReleaseYear": "2009",
+  "Image": "League of Legends.webp"
+},{
+  "_id": {
+    "$oid": "6381342ccd075e6d86a899a8"
+  },
+  "Title": "Minecraft",
+  "Platform": "PC",
+  "ReleaseYear": "2011",
+  "Image": "Minecraft.png"
+},{
+  "_id": {
+    "$oid": "6381343ecd075e6d86a899a9"
+  },
+  "Title": "Rocket League",
+  "Platform": "PC",
+  "ReleaseYear": "2015",
+  "Image": "Rocket League.jpg"
+},{
+  "_id": {
+    "$oid": "6381348dcd075e6d86a899aa"
+  },
+  "Title": "Skyrim",
+  "Platform": "Works on everything",
+  "ReleaseYear": "2011",
+  "Image": "Skyrim.jpg"
+},{
+  "_id": {
+    "$oid": "638134a1cd075e6d86a899ab"
+  },
+  "Title": "Valorant",
+  "Platform": "PC",
+  "ReleaseYear": "2020",
+  "Image": "Valorant.jpg"
+},{
+  "_id": {
+    "$oid": "638134b1cd075e6d86a899ac"
+  },
+  "Title": "World of Warcraft",
+  "Platform": "PC",
+  "ReleaseYear": "2004",
+  "Image": "World of warcraft.webp"
+}]
