@@ -1,0 +1,173 @@
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\smidigAPI.staticwebassets.runtime.json
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\smidigAPI.exe
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\smidigAPI.deps.json
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\smidigAPI.runtimeconfig.json
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\smidigAPI.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\smidigAPI.pdb
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.AssemblyReference.cache
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.AssemblyInfoInputs.cache
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.AssemblyInfo.cs
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\scopedcss\bundle\smidigAPI.styles.css
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.CopyComplete
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\refint\smidigAPI.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.pdb
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\smidigAPI.genruntimeconfig.cache
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\obj\Debug\net6.0\ref\smidigAPI.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Stripe.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Julian\Documents\GitHub\Smidig\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.staticwebassets.runtime.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.exe
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.deps.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.runtimeconfig.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.pdb
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Stripe.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.AssemblyReference.cache
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.AssemblyInfoInputs.cache
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.AssemblyInfo.cs
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.CoreCompileInputs.cache
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets\msbuild.smidigAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.smidigAPI.props
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.smidigAPI.props
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.smidigAPI.props
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\scopedcss\bundle\smidigAPI.styles.css
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.CopyComplete
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\refint\smidigAPI.dll
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.pdb
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.genruntimeconfig.cache
+C:\Users\elvev\OneDrive\Dokumenter\..Høyskolen Kristiania\4. semester\Smidig prosjekt\Smidig Prosjekt - Eksamen (gruppe 3)\EKSAMEN GRUPPEINNLEVERING\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\ref\smidigAPI.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.staticwebassets.runtime.json
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.exe
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.deps.json
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.runtimeconfig.json
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\smidigAPI.pdb
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\DnsClient.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\RestSharp.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Snappier.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Stripe.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.AssemblyReference.cache
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.AssemblyInfo.cs
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\scopedcss\bundle\smidigAPI.styles.css
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.csproj.CopyComplete
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\refint\smidigAPI.dll
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.pdb
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\smidigAPI.genruntimeconfig.cache
+C:\Users\jonas\Desktop\Web-aplikasjon\smidigAPI\obj\Debug\net6.0\ref\smidigAPI.dll

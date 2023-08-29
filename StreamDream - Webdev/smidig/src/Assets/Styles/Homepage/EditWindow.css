@@ -1,0 +1,147 @@
+ .home-tools-edit-container {
+     position: relative;
+     overflow: auto;
+     height: 50%;
+     width: 100%;
+     background-color: var(--vizrt-color-background-secondary);
+     border-top: 2px solid var(--vizrt-color-background-primary);
+     display: flex;
+     flex-direction: row;
+     overflow: hidden;
+ }
+
+.package-components-container{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+    overflow: auto;
+}
+
+.package-component-title {
+    font-weight: bold;
+    cursor: default;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    border-bottom: 1px solid var(--vizrt-color-background-primary);
+}
+
+.package-component,
+.background-color-component,
+.text-color-component{
+    cursor: default;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    border-radius: 8px;
+    border: 2px solid transparent;
+}
+.package-component {
+    cursor: pointer;
+    /* stops text from being highligted when clicking and dragging curson */
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+}
+
+.package-component-selected {
+    border: var(--border-selected);
+}
+
+.btn-toggle-component{
+    font-size: 14px;
+    font-weight: normal;
+    color: black;
+    cursor: pointer;
+    padding: 4px 10px;
+    border-radius: 4px;
+    background-color: var(--vizrt-color-passive);
+}
+
+.remove {
+    background-color: var(--vizrt-color-primary);
+}
+.remove:hover {
+    background-color: var(--vizrt-color-danger);
+}
+
+.btn-toggle-component:hover{
+    background-color: var(--vizrt-color-secondary);
+}
+
+.package-component:hover {
+    background-color: var(--vizrt-color-background-primary);
+}
+
+.edit-element-container{
+    border-left: 2px solid var(--vizrt-color-background-primary);
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    overflow: none;
+    overflow-y: auto;
+}
+
+.background-color-btn,
+.text-color-btn {
+    height: 40px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    border: 1px solid var(--vizrt-color-background-primary);
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.background-color-btn:hover,
+.text-color-btn:hover {
+    border: var(--border-selected);
+}
+.button-selected {
+    border: var(--border-selected);
+}
+
+.react-colorful {
+    width: 100% !important;
+    padding: 16px;
+}
+.react-colorful__saturation {
+    height: 172px !important;
+}
+
+.background-color-input {
+    width: calc(100% - 32px);
+    margin: 0 16px 16px;
+}
+.edit-container-title{
+    font-weight: bold;
+    cursor: default;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10px;
+    border-bottom: 1px solid var(--vizrt-color-background-primary);
+}
+
+.edit-element-item {
+    border-bottom: 1px solid var(--vizrt-color-background-primary);
+}

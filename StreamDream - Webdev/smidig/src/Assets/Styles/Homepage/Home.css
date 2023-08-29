@@ -1,0 +1,196 @@
+.vertical-separator {
+    width: 1px;
+    height: 48px;
+    background-color: var(--vizrt-color-passive);
+    margin: 4px;
+}
+
+.overlay-item-container {
+    width: 100%;
+    background-color: var(--vizrt-color-background-secondary);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.overlay-item {
+    font-size: small;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    margin: 4px;
+    padding: 8px;
+    border-radius: 8px;
+    min-width: 100px;
+    cursor: pointer;
+}
+
+.overlay-item:hover {
+    background-color: var(--vizrt-color-background-primary);
+}
+
+.color-inactive>div,
+.color-inactive>div>svg {
+    color: var(--vizrt-color-passive);
+    fill: var(--vizrt-color-passive);
+}
+
+.overlay-item-text {
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    cursor: text;
+}
+
+.scene-renderer-container,
+.scene-renderer-container>div {
+    height: 80px;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    overflow: auto;
+}
+
+/* Overwrites the default scroll style and replaces handle with white and makes the rest not visible */
+.scene-renderer-container>div::-webkit-scrollbar {
+    width: 0.5rem;
+    height: 0.5rem;
+}
+
+.scene-renderer-container>div::-webkit-scrollbar-thumb {
+    background-color: var(--vizrt-color-passive);
+    border-radius: 0.25rem;
+}
+
+.scene-renderer-container>div::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+
+.home-container {
+    height: calc(100vh - 56px - 80px);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.home-tools-container {
+    height: 100%;
+    min-width: 400px;
+    width: 50%;
+    max-width: 800px;
+    /* background-color: rgba(0, 255, 0, 0.363); */
+}
+
+.home-scene-container {
+    height: 100%;
+    min-width: 50%;
+    width: 100%;
+    background-color: var(--vizrt-color-background-primary);
+}
+
+.home-tools-packages-container {
+    width: 100%;
+    height: 50%;
+}
+
+/* Algins text to center of element, while also being positioned absolute so it dont interfeers with anything else */
+.element-description {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.position-relative {
+    position: relative;
+}
+
+.packages-toolbar-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2px 0 0;
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+    cursor: pointer;
+}
+
+.packages-toolbar-item:hover {
+    background-color: var(--vizrt-color-background-secondary);
+}
+
+.packages-toolbar-container {
+    width: 100%;
+    background-color: var(--vizrt-color-background-primary);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.packages-window-container {
+    background-color: var(--vizrt-color-background-secondary);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.packages-container {
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    overflow: auto;
+}
+
+.option-active {
+    background-color: var(--vizrt-color-background-secondary);
+}
+
+.vizrt-color-primary {
+    color: var(--vizrt-color-primary);
+    fill: var(--vizrt-color-primary);
+}
+
+.scene-item-input{
+    background-color: var(--vizrt-color-background-secondary);
+    color: var(--vizrt-color-primary);
+    width: 100px;
+    outline: none;
+    border-radius: 4px;
+    border: 1px solid var(--vizrt-color-background-primary);
+    text-align: center;
+}
+
+.scene-item-delete-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 4px;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    color: var(--vizrt-color-background-secondary);
+}
+.overlay-item:hover .scene-item-delete-btn {
+    color: var(--vizrt-color-secondary);
+}
+
+.overlay-item-new {
+    cursor: pointer;
+}
+.overlay-item-new:hover {
+    fill: var(--vizrt-color-primary);
+}
+
+.overlay-item-new:hover .overlay-item-icon-new>svg>g,
+.overlay-item-new:hover .overlay-item-text-new {
+    color: var(--vizrt-color-primary);
+    fill: var(--vizrt-color-primary);
+}

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>wwwroot</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+
+    <h1>smidigAPI-wwwroot</h1>
+    <h3>Available endpoints for testing:</h3>
+    
+    <div>
+        <p>Package Store Endpoints</p>
+            <div style="background-color: rgb(255, 221, 177); padding: 10px">
+                <p>Get all store packages:</p>
+                <input type="button" id="getAllPackagesBtn" value="Get All Packages">
+            </div>
+            <div style="background-color: rgb(255, 238, 217); padding: 10px">
+                <p>Search store package by id:</p>
+                <input type="text" id="getPackageById" placeholder="Id: ">
+                <input type="button" id="getPackageByIdBtn" value="Search">
+            </div>
+            <div style="background-color: rgb(255, 221, 177); padding: 10px">
+                <p>Create a new store package:</p>
+                <input type="text" id="newPackageTitle" placeholder="Title:">
+                <br>
+                <select id="newPackageType">
+                    <option value="Overlay">Overlay</option>
+                    <option value="Sound">Sound</option>
+                    <option value="Effect">Effect</option>
+                </select>
+                <br>
+                <input type="text" id="newPackageShortDesc" placeholder="Short Description:">
+                <br>
+                <input type="text" id="newPackageLongDesc" placeholder="Long Description:">
+                <br>
+                <input type="text" id="newPackagePrice" placeholder="Price:">
+                <br>
+                <input type="text" id="newPackageRating" placeholder="Rating:">
+                <p>Image</p>
+                <input type="file" id="newPackageImage" name="filename">
+                <br>
+                <br>
+                <input type="button" id="createPackageBtn" value="Create Package">
+            </div>
+            <div style="background-color: rgb(255, 238, 217); padding: 10px">
+                <p>Update a store package:</p>
+                <input type="text" id="updateGetPackageById" placeholder="Id: ">
+                <input type="button" id="updateGetPackageByIdBtn" value="Get Package">
+                <br>
+                <input type="text" id="updatePackageTitle" placeholder="Title:" disabled="true">
+                <br>
+                <select id="updatePackageType" disabled="true">
+                    <option value="Overlay">Overlay</option>
+                    <option value="Sound">Sound</option>
+                    <option value="Effect">Effect</option>
+                </select>
+                <br>
+                <input type="text" id="updatePackageShortDesc" placeholder="Short Description:" disabled="true">
+                <br>
+                <input type="text" id="updatePackageLongDesc" placeholder="Long Description:" disabled="true">
+                <br>
+                <input type="text" id="updatePackagePrice" placeholder="Price:" disabled="true">
+                <br>
+                <input type="text" id="updatePackageRating" placeholder="Rating:" disabled="true">
+                <p>Update Image</p>
+                <input type="file" id="updatePackageImage" name="filename" disabled="true">
+                <br>
+                <br>
+                <input type="button" id="updatePackageBtn" value="Update Package" disabled="true">
+            </div>
+            <div style="background-color: rgb(255, 221, 177); padding: 10px">
+                <p>Remove store package:</p>
+                <input type="text" id="removePackageById" placeholder="Id: ">
+                <input type="button" id="removePackageByIdBtn" value="Delete">
+            </div>
+    </div>
+
+    <script src="root.js"></script>
+</body>
+</html>

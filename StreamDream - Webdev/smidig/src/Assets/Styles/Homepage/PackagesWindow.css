@@ -1,0 +1,26 @@
+.packages-window-content-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    padding: 1rem;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    border-top: 2px solid var(--vizrt-color-background-secondary);
+    border-bottom: 2px solid var(--vizrt-color-background-secondary);
+}
+
+.packages-window-content-item{
+    background-color: var(--vizrt-color-background-primary);
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.packages-window-content-item:hover{
+    filter: brightness(110%);
+}
+
+.packages-window-content-item>img {
+    height: 150px;
+}

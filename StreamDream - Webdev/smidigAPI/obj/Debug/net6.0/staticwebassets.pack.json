@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\BalloonsEffect.JPG",
+      "PackagePath": "staticwebassets\\images\\BalloonsEffect.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\Betapack.JPG",
+      "PackagePath": "staticwebassets\\images\\Betapack.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\ChatBorders.JPG",
+      "PackagePath": "staticwebassets\\images\\ChatBorders.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\ConfettiEffect.JPG",
+      "PackagePath": "staticwebassets\\images\\ConfettiEffect.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\FireEffect.JPG",
+      "PackagePath": "staticwebassets\\images\\FireEffect.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\FortniteSound.JPG",
+      "PackagePath": "staticwebassets\\images\\FortniteSound.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\GrandTheftAutoSound.JPG",
+      "PackagePath": "staticwebassets\\images\\GrandTheftAutoSound.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\HaloHeadshotSound.JPG",
+      "PackagePath": "staticwebassets\\images\\HaloHeadshotSound.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\KeyButtons.JPG",
+      "PackagePath": "staticwebassets\\images\\KeyButtons.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\LightningEffect.JPG",
+      "PackagePath": "staticwebassets\\images\\LightningEffect.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\LivePoll.JPG",
+      "PackagePath": "staticwebassets\\images\\LivePoll.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\MoneyEffect.JPG",
+      "PackagePath": "staticwebassets\\images\\MoneyEffect.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\RaveEffect.JPG",
+      "PackagePath": "staticwebassets\\images\\RaveEffect.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\RobloxSound.JPG",
+      "PackagePath": "staticwebassets\\images\\RobloxSound.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\SuperMarioSound.JPG",
+      "PackagePath": "staticwebassets\\images\\SuperMarioSound.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\Superpack.JPG",
+      "PackagePath": "staticwebassets\\images\\Superpack.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\TheLegendOfZeldaSound.JPG",
+      "PackagePath": "staticwebassets\\images\\TheLegendOfZeldaSound.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\images\\TierListMaker.JPG",
+      "PackagePath": "staticwebassets\\images\\TierListMaker.JPG"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\root.html",
+      "PackagePath": "staticwebassets\\root.html"
+    },
+    {
+      "Id": "C:\\Users\\elvev\\OneDrive\\Dokumenter\\..Høyskolen Kristiania\\4. semester\\Smidig prosjekt\\Smidig Prosjekt - Eksamen (gruppe 3)\\EKSAMEN GRUPPEINNLEVERING\\Web-aplikasjon\\smidigAPI\\wwwroot\\root.js",
+      "PackagePath": "staticwebassets\\root.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.smidigAPI.props",
+      "PackagePath": "build\\smidigAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.smidigAPI.props",
+      "PackagePath": "buildMultiTargeting\\smidigAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.smidigAPI.props",
+      "PackagePath": "buildTransitive\\smidigAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.smidigAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

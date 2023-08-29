@@ -1,0 +1,45 @@
+.navbar-custom {
+  background-color: var(--vizrt-color-background);
+}
+
+.navbar-toggler {
+  color: var(--vizrt-color-text-primary);
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  font-weight: 500;
+  color: var(--vizrt-color-text-primary);
+  fill: var(--vizrt-color-text-primary);
+}
+
+.navbar-custom .nav-link.active {
+  color: var(--vizrt-color-primary);
+  fill: var(--vizrt-color-primary);
+}
+
+.icon-container {
+  width: 30px;
+  margin-right: 6px;
+  display: grid;
+  place-items: center;
+}
+
+.nav-item {
+  padding: 0 8px;
+  border-radius: 8px;
+}
+
+.nav-item:hover {
+  background-color: var(--vizrt-color-background-secondary);
+}
+
+#navbar-main {
+  position: fixed;
+  background-color: var( --vizrt-color-background-primary);
+  width: 100%;
+}
+
+.navbar-spacer {
+  height: 56px;
+}
